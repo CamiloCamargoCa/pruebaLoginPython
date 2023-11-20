@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "usuario": "CADE",
+        "nombre": "Juan",
+        "apellidos": "Bautista",
+        "correo": "juanbautista@mail.com",
+        "clave": "3y0t"
+    },
+    {
+        "id": 2,
+        "usuario": "ADMIN",
+        "nombre": "Administrador",
+        "apellidos": "Empresa",
+        "correo": "admin@mail.com",
+        "clave": "y0OUP"
+    },
+    {
+        "id": 3,
+        "usuario": "auxiliar1",
+        "nombre": "Auxiliar",
+        "apellidos": "Uno",
+        "correo": "auxiliar1@mail.com",
+        "clave": "KazedfIz4"
+    },
+    {
+        "id": 3,
+        "usuario": "auxiliar2",
+        "nombre": "Auxiliar",
+        "apellidos": "Dos",
+        "correo": "auxiliar2@mail.com",
+        "clave": "KazedfIzW"
+    },
+    {
+        "id": 5,
+        "usuario": "camilo",
+        "nombre": "Camilo",
+        "apellidos": "Camargo",
+        "correo": "camilocamargo@mail.com",
+        "clave": "mMeJFC"
+    },
+    {
+        "id": 5,
+        "usuario": "arias",
+        "nombre": "David",
+        "apellidos": "Arias",
+        "correo": "davidarias@mail.com",
+        "clave": "NDImB"
+    },
+    {
+        "id": 5,
+        "usuario": "miguel",
+        "nombre": "Miguel",
+        "apellidos": "Avendano",
+        "correo": "miguelavendano@mail.com",
+        "clave": "jIhAhf"
+    }
+]

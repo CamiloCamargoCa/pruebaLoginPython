@@ -1,0 +1,10 @@
+numpy
+pygame
+scipy
+flask
+xlrd
+arrow
+pandas
+requests
+pymongo
+PySpark
